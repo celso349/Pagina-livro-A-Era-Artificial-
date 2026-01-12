@@ -36,5 +36,12 @@ a{
     text-decoration: none;
     background-color: rgb(23, 73, 23);
     padding: 4px 8px;
-    border-radius: 15px;
+    border-radius: 20px;
+    line-height: 50px;
+}
+h3{
+    font: bold 18pt helvetica;
+    color: rgb(241, 0, 0);
+    border: 1px solid red;
+    background-color: rgb(99, 17, 17);
 }
